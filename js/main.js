@@ -8,7 +8,7 @@ $("#submitIOT").click(function(event) {
     var lop = $.trim($("#lop").val()).replace(/ /g,'').toUpperCase();
     var email = $.trim($("#email").val()).replace(/ /g,'');
     var hovaten = $("#hovaten").val();
-	var cauhoi2 = $("#cauhoi").val();
+	var cauhoi = $("#cauhoi").val();
 	var cauhoi1 = $("#cauhoi1").val();
 	
 	var sdt = $("#sdt").val();
